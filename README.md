@@ -183,3 +183,9 @@ Request body:
 ## ✅ Project Purpose
 
 This project demonstrates backend system design, authentication, authorization, and real-world business logic enforcement suitable for internship evaluation.
+
+## 🌍 Live Deployment
+
+Backend deployed on Render:
+
+https://asset-lending-backend.onrender.com
